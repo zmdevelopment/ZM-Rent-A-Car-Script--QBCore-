@@ -1,0 +1,300 @@
+body {
+    background-image: url("img/background.png");
+    overflow: hidden;
+}
+
+.car1 {
+    position: absolute;
+    left: 642px;
+    top: 185.36px;
+    transition: 0.85s ease;
+}
+
+.car2 {
+    position: absolute;
+    left: 1020.77px;
+    top: 185.36px;
+    transition: 0.85s ease;
+}
+
+.car3 {
+    position: absolute;
+    left: 1445.04px;
+    top: 156px;
+    transition: 0.85s ease;
+}
+
+.car4 {
+    position: absolute;
+    left: 642px;
+    top: 464.3px;
+    transition: 0.85s ease;
+}
+
+.car5 {
+    position: absolute;
+    left: 1029.57px;
+    top: 476.04px;
+    transition: 0.85s ease;
+}
+
+.car6 {
+    position: absolute;
+    left: 1446.51px;
+    top: 452.55px;
+    transition: 0.85s ease;
+}
+
+.car7 {
+    position: absolute;
+    left: 642px;
+    top: 775.53px;
+    transition: 0.85s ease;
+}
+
+.car8 {
+    position: absolute;
+    left: 1031.04px;
+    top: 790.21px;
+    transition: 0.85s ease;
+}
+
+.car9 {
+    position: absolute;
+    left: 1446.51px;
+    top: 790.21px;
+    transition: 0.85s ease;
+}
+
+.btnn1{
+    position: absolute;
+    left: 737px;
+    top: 371px;
+    transition: 0.85s ease;
+    z-index: 2;
+}
+
+.btnn2{
+    position: absolute;
+    left: 1125px;
+    top: 371px;  
+    transition: 0.85s ease;   
+    z-index: 2;
+}
+
+.btnn3{
+    position: absolute;
+    left: 1543px;
+    top: 371px;
+    transition: 0.85s ease; 
+    z-index: 2;
+}
+
+.btnn4{
+    position: absolute;
+    left: 737px;
+    top: 658px;   
+    transition: 0.85s ease;  
+    z-index: 2;
+}
+
+.btnn5{
+    position: absolute;
+    left: 1125px;
+    top: 658px; 
+    transition: 0.85s ease;    
+    z-index: 2;
+}
+
+.btnn6{
+    position: absolute;
+    left: 1543px;
+    top: 658px;  
+    transition: 0.85s ease;   
+    z-index: 2;
+}
+
+.btnn7{
+    position: absolute;
+    left: 737px;
+    top: 974px;  
+    transition: 0.85s ease;   
+    z-index: 2;
+}
+
+.btnn8{
+    position: absolute;
+    left: 1125px;
+    top: 974px;   
+    transition: 0.85s ease;  
+    z-index: 2;
+}
+
+.btnn9{
+    position: absolute;
+    left: 1543px;
+    top: 974px;  
+    transition: 0.85s ease;   
+    z-index: 2;
+}
+
+#parentDivv1:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv2:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv3:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv4:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv5:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv6:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv7:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv8:hover img {
+    transform: scale(1.1); 
+}
+
+#parentDivv9:hover img {
+    transform: scale(1.1); 
+}
+
+
+
+#parentDiv1:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv2:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv3:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv4:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv5:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv6:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv7:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv8:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+#parentDiv9:hover img {
+    opacity: 0.7;
+    filter: contrast(1.75);
+    transform: scale(1.1); 
+}
+
+
+.car_section{
+    position: absolute;
+    width: 543px;
+    height: 824px;
+    left: 35px;
+    top: 186px;
+}
+
+.car_image{
+    position: absolute;
+    width: 494px;
+    height: 342px;
+    left: 60px;
+    top: 213px;
+}
+
+.car_name_price{
+    position: absolute;
+    width: 494px;
+    height: 400px;
+    left: 60px;
+    top: 569px;
+}
+
+.selected_car{
+    position: absolute;
+    top: 80px;
+    left: 150px;
+    font-family: 'Germania One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 23px;
+}
+
+.selected_car1{
+    position: absolute;
+    top: 110px;
+    left: 150px;
+    font-family: 'Germania One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 23px;
+}
+
+.rent_btnn{
+    position: absolute;
+    left: 131px;
+    top: 850px;
+}
+
+
+#rent_btn:hover img {
+    transform: scale(1.1); 
+}
+
+.returnbtn{
+    position: absolute;
+    left: 1666px;
+    top: 35px;
+}
+
+
+.returnbtn:hover img {
+    transform: scale(1.02); 
+}
